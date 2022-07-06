@@ -1,0 +1,33 @@
+Logistic Regression Classifier report: 
+
+               precision    recall  f1-score   support
+
+           0       0.92      0.99      0.96     16672
+           1       0.68      0.15      0.24      1671
+
+    accuracy                           0.92     18343
+   macro avg       0.80      0.57      0.60     18343
+weighted avg       0.90      0.92      0.89     18343
+
+Decision Tree Classifier report: 
+
+               precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93     16672
+           1       0.35      0.36      0.35      1671
+
+    accuracy                           0.88     18343
+   macro avg       0.64      0.65      0.64     18343
+weighted avg       0.88      0.88      0.88     18343
+
+Gaussian Naive Bayes Classifier report: 
+
+               precision    recall  f1-score   support
+
+           0       0.94      0.90      0.92     16672
+           1       0.31      0.44      0.36      1671
+
+    accuracy                           0.86     18343
+   macro avg       0.63      0.67      0.64     18343
+weighted avg       0.88      0.86      0.87     18343
+
